@@ -1,0 +1,13 @@
+.DS_Store
+.build/
+build/
+dist/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+assets/*.iconset/
+.venv/
+tmp/
+*.pem
+*.p12
+*.key

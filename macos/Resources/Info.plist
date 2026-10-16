@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleDisplayName</key><string>LookBridge</string>
+<key>CFBundleExecutable</key><string>LookBridge</string>
+<key>CFBundleIconFile</key><string>LookBridge.icns</string>
+<key>CFBundleIdentifier</key><string>com.atomfilmlab.lookbridge</string>
+<key>CFBundleName</key><string>LookBridge</string>
+<key>CFBundlePackageType</key><string>APPL</string>
+<key>CFBundleShortVersionString</key><string>1.0.0</string>
+<key>CFBundleVersion</key><string>1</string>
+<key>LSMinimumSystemVersion</key><string>12.0</string>
+<key>NSHighResolutionCapable</key><true/>
+<key>NSHumanReadableCopyright</key><string>LookBridge · Atom Film Lab</string>
+<key>CFBundleURLTypes</key><array><dict><key>CFBundleURLName</key><string>LookBridge updates</string><key>CFBundleURLSchemes</key><array><string>lookbridge</string></array></dict></array>
+<key>SUFeedURL</key><string>https://github.com/untitledca/LookBridge/releases/latest/download/appcast.xml</string>
+<key>SUPublicEDKey</key><string>XcIKoHU0U6gAL3NYi9sw2CZIKOZLTdqZl8vU5KVzkIo=</string>
+<key>SUEnableAutomaticChecks</key><false/>
+<key>SUAutomaticallyUpdate</key><false/>
+<key>SUScheduledCheckInterval</key><integer>86400</integer>
+<key>SUEnableSystemProfiling</key><false/>
+<key>SUVerifyUpdateBeforeExtraction</key><true/>
+<key>SURequireSignedFeed</key><true/>
+<key>SUSignedFeedFailureExpirationInterval</key><integer>0</integer>
+</dict></plist>

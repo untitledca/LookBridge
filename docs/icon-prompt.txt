@@ -1,0 +1,6 @@
+Generated with the built-in imagegen tool.
+Final project assets: assets/LookBridge.png, assets/LookBridge-256.png, assets/LookBridge.icns.
+
+Use case: logo-brand
+Asset type: production macOS application icon for LookBridge, a professional DaVinci Resolve assistant that connects ASC CDL color grades and reference stills.
+Primary request: create one beautiful, distinctive app icon, no text or lettering. A single strong symbol: two offset cinematic image frames joined by a flowing luminous ribbon/bridge, communicating matched color and reference imagery. Subtle precision-crafted depth and clean bevels, professional post-production software aesthetic. Rich chromatic light flowing across the bridge, against an elegant very dark neutral rounded-square macOS tile. Restrained, simple silhouette legible at 32 pixels. Centered square composition, icon tile fills about 86 percent of canvas, softly rounded corners, transparent outside the icon tile. No surrounding scenery, no mockup, no extra icons, no watermark, no DaVinci Resolve logo. High quality app-store icon rendering, 1024x1024 square.

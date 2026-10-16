@@ -1,0 +1,44 @@
+LookBridge · Atom Film Lab
+
+Two Resolve tools. One installer.
+Requires macOS 12 or later, DaVinci Resolve Studio, and Python 3 compatible
+with your Resolve installation. Works on Apple silicon and Intel Macs.
+
+1. Quit DaVinci Resolve.
+2. Open LookBridge.app from this disk image.
+3. Click Install LookBridge. The app copies itself to your user's Applications
+   folder and installs the scripts for your account, without administrator access.
+   You may instead drag the app to Applications and open it there before installing.
+4. Eject this disk image. Open Resolve Studio and choose
+   Workspace > Scripts > LookBridge > LookBridge.
+
+The two tools share a small launcher. Your original standalone script copies
+remain untouched. The installer replaces only its own marked directories and
+backs up previous versions under ~/Library/Application Support/LookBridge/Backups.
+
+Updates
+Choose Check for Updates in the app or Resolve launcher. Daily checks and
+automatic installation are optional; both are initially off. Automatic
+installation waits until LookBridge's window is closed and Resolve is quit.
+An already downloaded update can also install when you quit LookBridge.
+After an app update, installed scripts are refreshed on relaunch. If Resolve
+is running, script replacement waits until you quit Resolve. Leave LookBridge
+open for that refresh to complete. Running scripts are never interrupted.
+
+Support
+LookBridge is free. Small optional $5, $10, and $25 USD links open the same
+Atom Film Lab QuickBooks payment pages in your browser. No feature is paywalled.
+
+First launch
+This app is ad-hoc signed and has not been notarized by Apple. If macOS blocks
+it, first try opening LookBridge. If you trust this copy, open System Settings
+> Privacy & Security > Open Anyway for LookBridge, then confirm Open.
+Apple's instructions: https://support.apple.com/en-us/102445
+
+Remove
+Quit LookBridge. Move LookBridge.app to Trash. To remove only its scripts,
+remove the two LookBridge directories documented in the repository README.
+Do not remove Resolve's entire Scripts or Application Support folders.
+
+Source and help: https://github.com/untitledca/LookBridge
+Third-party licensing is included in the app's Resources folder.
